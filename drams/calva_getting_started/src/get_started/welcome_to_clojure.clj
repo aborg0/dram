@@ -1799,7 +1799,7 @@ to the compiler") "This is not ignored"
   ;; https://en.wikipedia.org/wiki/First-class_function
   ;; They can be values in collections (also keys
   ;; in maps) and can be passed as arguments to other
-  ;; functions, and ”returned ”as results from
+  ;; functions, and ”returned” as results from
   ;; evaluations. You might be familiar with the
   ;; concept from languages like JavaScript.
 
